@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copy of a letter, sent from the Lord of Inchiquine to the honorable Collonell Michaell Iones, commander in chiefe of the Parliaments forces in Leinster and governor of the citty of Dublin, vvith Colonell Iones his answer, to the Lord of Inchiquines saied letter.</title>
+            <author>Inchiquin, Murrough O'Brien, Earl of, 1614-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90189</idno>
+            <idno type="STC">Wing O460A</idno>
+            <idno type="STC">ESTC R223517</idno>
+            <idno type="EEBO-CITATION">99897843</idno>
+            <idno type="PROQUEST">99897843</idno>
+            <idno type="VID">137387</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90189)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137387)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2536:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copy of a letter, sent from the Lord of Inchiquine to the honorable Collonell Michaell Iones, commander in chiefe of the Parliaments forces in Leinster and governor of the citty of Dublin, vvith Colonell Iones his answer, to the Lord of Inchiquines saied letter.</title>
+                  <author>Inchiquin, Murrough O'Brien, Earl of, 1614-1674.</author>
+                  <author>Jones, Michael, d. 1649.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by William Bladen,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Identified as Wing O460A, reel 2536, of the UMI microfilm set "Early English books 1641-1700".</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137387:1"/>
+            <!-- PDF PAGE 37 -->
+            <p>A TRVE COPY OF A Letter, ſent from the Lord of <hi>Inchiquine</hi> to the Honorable Collonell <hi>Michaell Iones,</hi> Commander in chiefe of the Parliaments Forces in <hi>Leinſter,</hi> AND Governor of the Citty of <hi>Dublin,</hi>
+            </p>
+            <p>VVith Colonell <hi>Iones</hi> his Anſwer, To the Lord of <hi>Inchiquines</hi> ſaied Letter.</p>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN</hi> Printed by William Bladen 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <pb facs="tcp:137387:2"/>
+            <!-- PDF PAGE 38 -->
+            <floatingText type="letter">
+               <body>
+                  <pb facs="tcp:137387:2"/>
+                  <!-- PDF PAGE 38 -->
+                  <head>The Lord of <hi>Inchiquins</hi> Letter to Colonell <hi>Michaell Iones.</hi>
+                  </head>
+                  <opener>
+                     <salute>Sir.</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">T</seg>HE ſight of ſome late paſt Letters eb<g ref="char:EOLhyphen"/>tweene his Excellency and you, have by their paſſages given me more then Comon reaſon to ſuſpect, that a miſunderſtanding of our grounds is the greateſt cauſe that foments an un<g ref="char:EOLhyphen"/>happy diſtance betweene us at the preſent, of how great a Conſequence to all our ſecurity and felicities a vnion would bee, as it is obvious to the loweſt apprehenſion, ſoe ought it not to be contemned by the higheſt: but to be the la<g ref="char:EOLunhyphen"/>bor of us all to diſcend from thoſe heights which may wy<g ref="char:EOLhyphen"/>den a breach, and lay hold on thoſe things that moſt con<g ref="char:EOLhyphen"/>duce to peace; it has pleaſed God to make me one of his meaneſt Inſtruments to preſerve him a remnant (hitherto of Proteſtants perſevering in their firſt Principles) by my Sword which ſelfe ſame worke I am ſtill intending, but ſhould eſteeme the happineſse greater if you would pleaſe to effect it now by my pen or word by how much I prize a Conquest over the minde more then the body and eſteeme the retaineing of a friend more then the ſub<g ref="char:EOLhyphen"/>duing
+<pb facs="tcp:137387:3"/>
+                     <!-- PDF PAGE 39 -->
+of an Enemy. Sir it is not for Chriſtians to de<g ref="char:EOLhyphen"/>ſcend to a <g ref="char:V">Ʋ</g>
+                     <g ref="char:V">Ʋ</g>arre like Cocks into a pitt, and fight with<g ref="char:EOLhyphen"/>out knowing how the quarrell began, Blood muſt bee ac<g ref="char:EOLhyphen"/>counted for, and therefore is not on light Cauſes to be-ſpilt; beſides the Sword has a mouth to devoure Iuſtice, but no eyes to ſee how to defend it: if you pleaſe therefore before it have exhauſted any droppe from either party: to expoſtulate the matter your ſelf, or by any other whom you will appoint, with a divine or two added to them (in a faire and handſome debate) I ſhall meete you with the like both in number and quality where it may pleaſe God to beſtow ſuch a bleſsing as we are not yet apprehenſive of; and I Conjure you as you intend that really which you pretend verbally, (the eſtabliſhment of the Engliſh in<g ref="char:EOLhyphen"/>treſt and Proteſtant Religion) that you contemne not this nor any other meanes which ſhall be offered you for your juſt ſatisfaction. If you ſhall, the ill conſequences that may attend it will inevitably fall upon you, and I ſhall with quiet to my Conſcience have acquitted my ſelfe that I have in thus ſeeking performed the duty of a Chriſtian &amp; to you alſoe (if you pleaſe to follow it) the office of</p>
+                  <closer>
+                     <dateline>
+                        <date>20 <hi>Iunij</hi> 1649.</date>
+                     </dateline>
+                     <signed>Your Friend and Servant Inchiquine</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <pb facs="tcp:137387:3"/>
+                  <!-- PDF PAGE 39 -->
+                  <head>Colonell <hi>Iones</hi> Anſwer to my Lord of <hi>Inchiquins</hi> Letter.</head>
+                  <opener>
+                     <salute>My Lord</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">I</seg> recieved your Lordſhips of the 20th Inſtant by your Trumpet, which be<g ref="char:EOLhyphen"/>ing the ſame in ſubſtance with thoſe (not long ſince) paſsing me with the <hi>Lord of Ormonde,</hi> And that your Lordſhips, con<g ref="char:EOLhyphen"/>taining nothing new, or more then what was in thoſe others, I muſt therefore, without further an<g ref="char:EOLhyphen"/>ſwer (as to ſoe much,) referre your Lordſhip to what hath been then <hi>Anſwered</hi> and <hi>Replyed.</hi>
+                  </p>
+                  <p>As for that <hi>Conference</hi> by your Lordſhip now Propounded and deſired It cannot be, in prudence, admitted, eſpecially in matters of this conſequence, and in times when ſuch debatings muſt needs bee Dangerous, as being ſubject to whatſoever con<g ref="char:EOLhyphen"/>ſtructions, and miſconſtructions alſoe.</p>
+                  <p>But ſoe well am I ſatisfied in the Iuſtice of my Cauſe (whereupon the Lords bleſſing hath dwelt Viſibly, as ſtill it doth) that I am fixed to my juſt Principles, whence by <hi>Letters</hi> or <hi>Diſcourſes</hi> I am not to be removed. And I wiſh heartily your Lord<g ref="char:EOLunhyphen"/>ſhip
+<pb facs="tcp:137387:4"/>
+                     <!-- PDF PAGE 40 -->
+had done likewiſe.</p>
+                  <p>Your <hi>Sword</hi> hath been (I confeſſe) proſperous but remember my (Lord) the cauſe in which you then appeared the ſame with this now by Vs here maintained againſt thoſe bloody Rebells.</p>
+                  <p>But <hi>Now,</hi> is your Lordſhip with them moſt unhappily joyned, to the admiration of thoſe who knew your Lordſhips former profeſsions, and your once and againe renewed engagements (<hi>Now.</hi> in that your late Confederacy and Countenancing of them in their waies, are you become one of them in that guilt of <hi>Blood,</hi> where withall they, and the whole Land is defiled. And with them (deſerting your firſt principles) doe you <hi>Now</hi> ſet your ſelfe a<g ref="char:EOLhyphen"/>gainſt thoſe of the Proteſtant Religion of which once you were, and whereunto you ſtill profeſſe your ſelfe a friend, and whereof they are mortall and profeſſed Enemies.</p>
+                  <p>Your Cauſe therefore being ſoe varied your Lordſhip cannot promiſe your ſelfe the ſame <hi>Pro<g ref="char:EOLhyphen"/>vidence</hi> as formerly: which we doe and may con<g ref="char:EOLhyphen"/>fidently expect, and the rather, our truſt being in God alone; not in our own ſtrength, whereas your powers and number is that you boaſt off, and in
+<pb facs="tcp:137387:4"/>
+                     <!-- PDF PAGE 40 -->
+which you reſt your ſelves principally.</p>
+                  <p>All which I deſire may be by your Lordſhip Se<g ref="char:EOLhyphen"/>riouſly and timely Conſidered, for regaining and preſerving to your ſelfe a good Conſcience, and for ſtaying the effuſion of more Engliſh and proteſtant blood, which if by your meanes ſpilt, it muſt lye heavy on you, and on your Poſterity.</p>
+                  <p>
+                     <hi>I conjure you therefore as you intend that really which you pretend verbally, the eſtabliſhment, of the Engliſh intereſt, and Protestant Religion, that you contemne not</hi> this wholſome Councell now given you. <hi>If you ſhall, the ill Conſequences that now attend it, will inevi<g ref="char:EOLhyphen"/>tably fall on you and</hi> I <hi>ſhall with quiet to my Conſcience have acquited my ſelfe, that</hi> I <hi>have herein performed the duty of a Chriſtian, and to you alſoe (if you pleaſe to follow it) the Office of (my Lord)</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <hi>Dublin</hi>
+                        <date>Iune 21th 1649.</date>
+                     </dateline>
+                     <signed>Your Lordſhips Friend and Servant <hi>Mic: Iones</hi>
+                     </signed> 
+                     <salute>For my Lord of <hi>Inchiquine.</hi>
+                     </salute>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+   </text>
+</TEI>
